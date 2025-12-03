@@ -11,3 +11,6 @@ Note: All of this is anadius's work backed-up. I have no idea how to make stuff 
 5. On Steam go to Setting > Browse Local Files of your sims 4 game.
 6. Extract the DLC zip file into the following folder that has opened. If it asks, replace/merge the files. If it extracts as "Sims4_DLC_EP03_City_Living" etc, simply drag the folders inside out into the Sims 4 folder.
 7. Run your game, Enjoy it while it lasts!
+
+Download DLCs from here:
+
