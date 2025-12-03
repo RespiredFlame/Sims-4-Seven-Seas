@@ -17,4 +17,4 @@ Note: All of this is anadius's work backed-up. I have no idea how to make stuff 
 
 Download DLCs from here: https://gofile.io/d/U62XmA
 
-Note: If it says that your unable to download the files it means ive reached my donwload size limit for the month since im a free user. Wait until next month or seek alternatives.
+Note: If it says that your unable to download the files it means ive reached my download size limit for the month since im a free user. Wait until next month or seek alternatives.
