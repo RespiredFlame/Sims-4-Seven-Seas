@@ -4,7 +4,7 @@ Scan it yourself: https://www.virustotal.com/gui/home/upload
 # Sims 4 Seven Seas
 After anadius has quit the sims 4 sailing community and taken down all his work i scrambled together everything i could find from him. Use this to continue to play and sail Sims 4.
 
-Note: All of this is anadius's work backed-up. I have no idea how to make stuff like anadius or propely make ships to sail with. I have simply stored his work here since his website is down. It has every major dlc and every kit/pack i could find a mirror of that was still avaliable and not taken down.
+Note: All of this is anadius's work backed-up. I have simply stored his work here since his website is down. It has every major dlc and every kit/pack i could find a mirror of that was still avaliable and not taken down.
 
 # Instructions
 1. Download the EA DLC Unlocker.
@@ -35,3 +35,9 @@ Visit this site to view what all the DLC numbers are: https://sims.tarac.nl/dire
 8. Run your game, Enjoy it while it lasts!
 
 Alternative DLC download: https://gofile.io/d/K0RdIL
+
+# Future of DLC Unlocker
+
+I have dabbled with his code a bit in my spare time and i think im starting to understand it, though i dont fully understand how DLCs are defined yet so ill do a bit of experimenting. If things go well i might be able to continue his work for him in terms of making new DLCs work. If anyone is experienced with Windows Batch Script and would like to help this project, feel free to message me as in the future if anything happens directly to the unlocker i would only be able to continue working on the Linux release.
+
+In terms of making a brand new Sims 4 Updater, I do not have access to the source code of Sims 4 Updater, and reverse engineering it is extremely difficult since its compiled with PyInstaller. I would need to learn how to make a brand new program to do this from scratch which i currently dont have the skills or recources to do.
